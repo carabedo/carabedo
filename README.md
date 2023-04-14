@@ -1,11 +1,11 @@
 ### Hola! 👋
 
-# Cursos:
+### Cursos:
 - [Data Science](https://github.com/carabedo/apdatos)
 - [Front-End (HTML/CSS/Js)](https://github.com/carabedo/dw2)
 - [Back-End (Django)](https://github.com/carabedo/django)
 
-# Proyectos:
+### Proyectos:
 - Apis
 
 
