@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hola! 👋
+
+# Cursos:
+- Data Science
+- Front-End (HTML/CSS/Js)
+- Back-Endo (Django)
+
+# Proyectos:
+- Apis
+
 
 <!--
 **carabedo/carabedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
